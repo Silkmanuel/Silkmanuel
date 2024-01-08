@@ -1,16 +1,18 @@
 ### Hi there 👋
+#  Silk Manuel
 
-<!--
-**Silkmanuel/Silkmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`
+Mobile Developer - Dart/Flutter | Computer Sc. student
+`
 
-Here are some ideas to get you started:
+Sou desenvolvedor Flutter, contribuo ativamente em projetos desafiadores, aprimorando as minhas habilidades.   
+Comprometido com o aprendizado contínuo e ansioso para explorar novas oportunidades no mundo da tecnologia.💡   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>💭:_"Fé em Deus, gurreiro. Vamos festejar..."_
+
+
+ <div align="center">
+  <a href="https://github.com/mannuelst">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Silkmanuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silkmanuel&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
